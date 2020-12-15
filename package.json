@@ -1,6 +1,6 @@
 {
     "name": "ut-port-voicecom-sim",
-    "version": "7.1.0",
+    "version": "7.1.1",
     "main": "index.js",
     "dependencies": {
         "@hapi/hapi": "20.0.1"
