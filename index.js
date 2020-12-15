@@ -19,7 +19,7 @@ module.exports = (...params) => class voicecomsim extends require('ut-port-scrip
                     method: 'post',
                     handler: async(req, h) => {
                         return h.response({
-                            return_code: 0
+                            return_code: req.payload.sms.text === 'error' ? 1000 : 0
                         });
                     }
                 });
