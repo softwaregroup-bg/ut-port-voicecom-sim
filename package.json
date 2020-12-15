@@ -3,7 +3,7 @@
     "version": "7.1.0",
     "main": "index.js",
     "dependencies": {
-        "@hapi/hapi": "18.4.0"
+        "@hapi/hapi": "20.0.1"
     },
     "peerDependencies": {
         "ut-port-script": "^7.1.1"
