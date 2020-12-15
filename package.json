@@ -6,13 +6,13 @@
         "@hapi/hapi": "18.4.0"
     },
     "peerDependencies": {
-        "ut-port-script": "^7.1.0"
+        "ut-port-script": "^7.1.1"
     },
     "devDependencies": {
         "tap": "^14.10.7",
-        "ut-port-script": "^7.1.0",
-        "ut-run": "^10.25.0",
-        "ut-tools": "^6.33.4",
+        "ut-port-script": "^7.1.1",
+        "ut-run": "^10.44.5",
+        "ut-tools": "^6.35.2",
         "why-is-node-running": "^2.1.0"
     },
     "scripts": {
